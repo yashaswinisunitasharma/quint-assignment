@@ -1,0 +1,5 @@
+region = "us-east-1"
+project_name = "quint"
+vpc_cidr = "10.1.0.0/16" 
+pub_sub_1a_cidr = "10.1.0.0/17"
+pub_sub_2a_cidr = "10.1.128.0/17"
